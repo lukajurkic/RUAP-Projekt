@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Luke Jurkica with JMBAG: 0165081223");
+            Console.WriteLine("Pozdrav iz aplikacije od Luke Jurkica");
         }
     }
 }
